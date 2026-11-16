@@ -34,6 +34,12 @@ Standard CPA optimization ignores all of this. The frameworks here are designed 
 
 ---
 
+## Results at a Glance
+
+![LTV/CAC by Acquisition Channel](docs/images/ltv_cac_by_channel.png)
+
+![A/B Checkout Optimization — Conversion Lift](docs/images/ab_checkout_lift.png)
+
 ## Notebooks
 
 ### [01 · Customer LTV & RFM Segmentation](notebooks/01_customer_ltv_rfm_furniture.ipynb)
